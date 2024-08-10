@@ -1,9 +1,6 @@
 ﻿# Next.js-Beginning-To-Advanced
-Here's the revised README for your Next.js learning journey:
 
----
-
-# Next.js Learning Journey
+# Learning Journey
 
 Welcome to my Next.js learning journey! This README will document my progress, key takeaways, and challenges as I move from beginner to advanced proficiency in Next.js.
 
